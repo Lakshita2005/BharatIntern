@@ -1,7 +1,7 @@
 # BharatIntern Projects
 This repository contains the projects completed during my internship. The projects focused on data analysis and machine learning techniques applied to real-world problems.
 
-Project 1: Titanic Survival Classification
+# Project 1: Titanic Survival Classification
 
 Overview
 
@@ -11,7 +11,7 @@ Dataset
 
 The dataset used for this project was obtained from Kaggle, which includes information about passengers aboard the Titanic, such as age, gender, ticket class, etc.
 
-Project 2: Spam and Ham Classification
+# Project 2: Spam and Ham Classification
 
 Overview
 
